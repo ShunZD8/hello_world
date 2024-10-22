@@ -7,4 +7,4 @@ gokigenpanda
 konezumi
 aaaakoko
 
-サーバー上で編集したぞーーーー
+サーバー上で編集したぞーー！！
