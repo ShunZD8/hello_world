@@ -3,3 +3,5 @@
 これはテストです。
 
 aaaakoko
+
+Write a line to new branch.
